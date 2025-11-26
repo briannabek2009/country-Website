@@ -1,0 +1,10 @@
+body{
+    font-family:Arial;
+    background-color: blanchedalmond;
+}
+ nav{
+    list-style:none;
+    display:flex;
+    background-color:blanchedalmond;
+
+ }
