@@ -9,7 +9,7 @@ body{
     flex:1;
      text-align: center;
      text-decoration: none;
-     font-size: 25;
+     font-size: 30;
      color:white;
       font-weight: bold;
  }
@@ -22,5 +22,16 @@ body{
  }
  p{
     color:red;
-    font-size:28;
+    font-size:30;
+ }
+ img{
+    filter:grayscale(100%);
+ }
+ img:hover{
+filter:none;
+ }
+ img{
+
+  height: 200px;
+  width: 50%;
  }
