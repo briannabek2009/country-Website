@@ -1,6 +1,6 @@
 body{
     font-family:Arial;
-    background-color: rgba(95, 219, 236, 0.448);
+    background-color:white;
 }
 .container{
     display:flex;
@@ -10,13 +10,13 @@ body{
      text-align: center;
      text-decoration: none;
      font-size: 30;
-     color:white;
+     color:blue;
       font-weight: bold;
  }
  h1{
     font-family:arial;
     font-size:60;
-    align-items: center;
+    text-align: center;
   
   color: red;
  }
@@ -33,5 +33,5 @@ filter:none;
  img{
 
   height: 200px;
-  width: 50%;
+
  }
