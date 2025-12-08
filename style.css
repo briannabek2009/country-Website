@@ -1,6 +1,5 @@
 body{
-    font-family:Arial;
-    background-color:white;
+ font-family: 'Times New Roman', Times, serif;    background-color:white;
 }
 .container{
     display:flex;
@@ -12,17 +11,20 @@ body{
      font-size: 30;
      color:blue;
       font-weight: bold;
+       font-family: 'Times New Roman', Times, serif;
  }
  h1{
     font-family:arial;
     font-size:60;
     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
   
   color: red;
  }
  p{
     color:red;
     font-size:30;
+     font-family: 'Times New Roman', Times, serif;
  }
  img{
     filter:grayscale(100%);
@@ -38,4 +40,9 @@ filter:none;
  h2{
    color:blue;
    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .card p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17pt;
  }
