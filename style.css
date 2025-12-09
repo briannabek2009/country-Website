@@ -12,6 +12,7 @@ body{
      color:blue;
       font-weight: bold;
        font-family: 'Times New Roman', Times, serif;
+      
  }
  h1{
     font-family:arial;
@@ -45,4 +46,9 @@ filter:none;
  .card p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 19pt;
- }
+
+ }.card{
+  flex:1;
+  margin:20px;
+  border:solid 1px black;
+}
